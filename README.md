@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm currently a **3rd-year B.Tech student in Elect
 
 ---
 ### 🌐 Connect with Me
-- 🏢 [LinkedIn](linkedin.com/in/vaishno-prakash-tiwari-989033252)
+- 🏢 [LinkedIn](https://www.linkedin.com/in/vaishno-prakash-tiwari-989033252/)
 - 🌐 [Twitter](https://x.com/VaishnoSatyam)
 - 📧 [Email](mailto:satyamvaishno123@gmail.com)
 

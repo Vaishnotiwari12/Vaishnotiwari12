@@ -41,6 +41,36 @@ I'm a passionate Full Stack Developer specializing in MERN Stack, currently purs
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnotiwari12&show_icons=true&theme=radical" alt="Vaishno's GitHub Stats" />
+</p>
+
+### 📈 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnotiwari12&theme=radical" alt="Vaishno's GitHub Streak" />
+</p>
+
+### 📊 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Vaishnotiwari12/count.svg" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vaishnotiwari12&theme=radical" alt="Vaishno's GitHub Trophies" />
+</p>
+
+### 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnotiwari12&layout=compact&theme=radical" alt="Vaishno's Most Used Languages" />
+</p>
+
 
 ### 📚 Education
 

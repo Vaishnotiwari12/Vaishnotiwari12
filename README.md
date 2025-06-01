@@ -1,12 +1,13 @@
 # Vaishno Prakash Tiwari
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Passionate+Problem+Solver" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Vaishnotiwari12/Vaishnotiwari12/blob/main/Developer.gif" alt="Developer" width="200">
-</p>
+```Vaishno tiwari
+  _____ _      _____ _   _ _   _ _____ 
+ / ____| |    |_   _| \ | | \ | |  __ \
+| |    | |      | | |  \| |  \| | |  | |
+| |    | |      | | | . ` | . ` | |  | |
+| |____| |____ _| |_| |\  | |\  | |__| |
+ \_____|______|_____|_| \_|_| \_|_____/   
+```
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishno-prakash-tiwari-989033252/">
@@ -24,6 +25,10 @@
   <a href="https://travel-agency-dashboard-lemon.vercel.app">
     <img src="https://img.shields.io/badge/-Travel%20Agency%20Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaishnotiwari12&label=Profile%20views&color=0e75b6&style=flat" alt="Vaishnotiwari12" />
 </p>
 
 ## 🚀 About Me

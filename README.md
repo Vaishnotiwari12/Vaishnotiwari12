@@ -1,19 +1,34 @@
 # Vaishno Prakash Tiwari
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaishno-prakash-tiwari-989033252/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/VaishnoSatyam)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:satyamvaishno123@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Passionate+Problem+Solver" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Vaishnotiwari12/Vaishnotiwari12/blob/main/Developer.gif" alt="Developer" width="200">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishno-prakash-tiwari-989033252/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/VaishnoSatyam">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:satyamvaishno123@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://vaishnotiwariportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://travel-agency-dashboard-lemon.vercel.app">
+    <img src="https://img.shields.io/badge/-Travel%20Agency%20Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ## 🚀 About Me
 
 I'm a passionate Full Stack Developer specializing in MERN Stack, currently pursuing my B.Tech in Electronics Engineering. With a strong foundation in both hardware and software, I bring a unique perspective to software development.
-
-### 🌟 Key Achievements
-
-- 🏆 **Smart India Hackathon 2023**: Secured 2nd rank in college (Software Category)
-- 🏆 **Data Analytics Intern**: Completed 2-month internship at Edulyt India
-- 🏆 **8+ JavaScript Projects**: Built and deployed multiple web applications
-- 🏆 **Technical Leader**: Led multiple project teams to successful completion
 
 ### 🛠️ Tech Stack
 
@@ -26,24 +41,6 @@ I'm a passionate Full Stack Developer specializing in MERN Stack, currently purs
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-
-### 🎯 Professional Projects
-
-#### Smart India Hackathon Project
-- Developed a comprehensive web application for real-time monitoring and analytics
-- Implemented RESTful APIs using Node.js and Express
-- Utilized MongoDB for efficient data storage and retrieval
-- Integrated real-time data visualization using Chart.js
-
-#### Color Changer Application
-- Built a responsive web application using React
-- Implemented state management using Redux
-- Added dark/light mode functionality
-- Deployed on StackBlitz with full PWA support
-
-#### BMI Calculator
-- Created a user-friendly BMI calculator with React
-- Implemented responsive design for all devices
 - Added data persistence using localStorage
 - Integrated with MongoDB for user profile management
 
@@ -56,8 +53,8 @@ I'm a passionate Full Stack Developer specializing in MERN Stack, currently purs
 
 ### 🎯 Skills & Expertise
 
-- **Frontend Development**: React, Redux, HTML5, CSS3, JavaScript
-- **Backend Development**: Node.js, Express.js, RESTful APIs
+- **Frontend Development**: React, Redux, HTML5, CSS3, JavaScript,Typescript  
+- **Backend Development**: Node.js, Express.js
 - **Database Management**: MongoDB, SQL
 - **Version Control**: Git, GitHub
 - **Problem Solving**: Algorithmic thinking, Data Structures

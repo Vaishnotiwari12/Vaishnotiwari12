@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer specializing in MERN Stack, currently pursuing my B.Tech in Electronics Engineering. With a strong foundation in both hardware and software, I bring a unique perspective to software development.
+I'm a passionate Full Stack Developer specializing in MERN Stack, currently pursuing my B.Tech in Electronics Engineering. With a strong foundation in software development, I bring a unique perspective to creating innovative web applications.
 
 ### 🛠️ Tech Stack
 
@@ -33,24 +33,21 @@ I'm a passionate Full Stack Developer specializing in MERN Stack, currently purs
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-### 🔥 Currently Learning
-
-- Advanced React patterns and best practices
-- Full-stack MERN application development
-- Modern JavaScript (ES6+)
-- Cloud deployment and DevOps
 
 ### 📚 Education
 
 - **B.Tech in Electronics Engineering**
   - Currently pursuing
-  - Focus on both hardware and software integration
   - Strong foundation in computer science fundamentals
+  - Focused on software development and web technologies
 
 ### 🌐 Connect with Me
 

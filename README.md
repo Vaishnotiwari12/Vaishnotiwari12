@@ -1,101 +1,114 @@
-# Vaishno Prakash Tiwari
+# 👋 Hi, I'm Vaishno Prakash Tiwari
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=000000&center=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Full+Stack+(MERN);Backend+Focused+Developer;C%2B%2B+%26+DSA+Enthusiast;Building+Scalable+Web+Apps" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishno-prakash-tiwari-989033252/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/VaishnoSatyam">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <a href="https://github.com/Vaishnotiwari12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:satyamvaishno123@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <a href="mailto:vaishnotiwari12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://vaishnotiwariportfolio.vercel.app">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://travel-agency-dashboard-lemon.vercel.app">
-    <img src="https://img.shields.io/badge/-Travel%20Agency%20Dashboard-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://vaishno-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
+
+---
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer specializing in MERN Stack, currently pursuing my B.Tech in Electronics Engineering. With a strong foundation in software development, I bring a unique perspective to creating innovative web applications.
+I am a **Software Engineer / Full Stack Developer (MERN)** with a strong **backend focus**.  
+I enjoy designing **RESTful APIs**, implementing **secure authentication**, and building **scalable, production-ready applications**.
 
-### 🛠️ Tech Stack
+- 🎓 B.Tech in Electronics Engineering  
+- 💻 Backend & Full-Stack Development (MERN)  
+- 🧠 Strong foundation in **C++ & Data Structures**
+- 🏆 Solved **500+ DSA problems** on LeetCode & GeeksforGeeks
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+
+### 🔹 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+### 🔹 Tools & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-Basics-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 💼 Featured Projects
+
+### 🌍 Tourvisto – AI Travel Dashboard
+- AI-powered travel planning app using **Gemini AI**
+- Secure authentication & analytics dashboard
+- **Live:** https://travel-agency-dashboard-lemon.vercel.app  
+- **GitHub:** https://github.com/Vaishnotiwari12/AI-Travel-dashboard
+
+### 🧑‍💼 Smart Hiring & Applicant Tracking System
+- Full-stack recruitment platform (MERN)
+- Role-based dashboards & authentication
+- **Live:** https://veridia-hiring-plateform.vercel.app  
+- **GitHub:** https://github.com/Vaishnotiwari12/Veridia_Hiring_Plateform
+
+### 🔐 Secure Authentication System
+- JWT-based auth with refresh tokens
+- Email verification & password reset
+- **GitHub:** https://github.com/Vaishnotiwari12/mern_authentication
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnotiwari12&show_icons=true&theme=radical" alt="Vaishno's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnotiwari12&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnotiwari12&theme=github-dark" width="48%" />
 </p>
-
-### 📈 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaishnotiwari12&theme=radical" alt="Vaishno's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnotiwari12&layout=compact&theme=github_dark" />
 </p>
-
-### 📊 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Vaishnotiwari12/count.svg" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vaishnotiwari12&theme=radical" alt="Vaishno's GitHub Trophies" />
-</p>
-
-### 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnotiwari12&layout=compact&theme=radical" alt="Vaishno's Most Used Languages" />
-</p>
-
-
-### 📚 Education
-
-- **B.Tech in Electronics Engineering**
-  - Currently pursuing
-  - Strong foundation in computer science fundamentals
-  - Focused on software development and web technologies
-
-### 🌐 Connect with Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vaishno-prakash-tiwari-989033252/)
-- 🐦 [Twitter](https://x.com/VaishnoSatyam)
-- 📧 [Email](mailto:satyamvaishno123@gmail.com)
-- 🌐 [Portfolio](https://vaishnotiwariportfolio.vercel.app)
-- 🌐 [Latest Project](https://travel-agency-dashboard-lemon.vercel.app)
-
-### 🎯 Career Goals
-
-- Seeking opportunities to work with innovative tech companies
-- Looking to contribute to meaningful projects that make a difference
-- Eager to learn and grow in a challenging environment
-- Passionate about building scalable web applications
-
-"A journey of a thousand miles begins with a single step." - Lao Tzu
 
 ---
 
-⭐️ From [Vaishno Prakash Tiwari](https://github.com/Vaishnotiwari12)
+## 🏆 Achievements
+- ✅ Solved **500+ DSA problems** (C++)
+- 🏆 **2× Winner – Smart India Hackathon (Internal)**  
+- 📜 Completed **Full Stack Web Development (MERN)** – Udemy  
+
+---
+
+## 🎯 Career Objective
+Seeking **Software Engineer / Full Stack Developer** roles where I can:
+- Build scalable backend systems
+- Work on real-world products
+- Grow with strong engineering teams
+
+---
+
+📫 **Reach me at:**  
+📧 vaishnotiwari12@gmail.com  
+🔗 https://www.linkedin.com/in/vaishno-prakash-tiwari-989033252/
+
+⭐️ _If you like my work, consider starring my repositories!_

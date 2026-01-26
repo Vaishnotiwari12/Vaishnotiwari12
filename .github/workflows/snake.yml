@@ -11,14 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write  # This permission is required to push the new branch!
+      contents: write
     
     steps:
       - uses: actions/checkout@v3
 
       - uses: Platane/snk@v3
         with:
-          # github user name to read the contribution graph from (**Required**)
+          # github user name to read the contribution graph from
           github_user_name: ${{ github.repository_owner }}
 
           # list of files to generate.
@@ -27,7 +27,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/gh-action-github-pages@v4
+        # CORRECTED LINE BELOW (removed the extra hyphen)
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

@@ -22,7 +22,7 @@ Backend-focused software engineer passionate about building
 
 ---
 
-<!-- Snake Animation -->
+<h2 align="center">🐍 Contribution Activity</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vaishnotiwari12/Vaishnotiwari12/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </p>
@@ -130,14 +130,21 @@ Backend-focused software engineer passionate about building
 ## 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://vaishno-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaishno-prakash-tiwari-989033252/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vaishnotiwari12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <br/>
   <a href="https://leetcode.com/u/Vaishnoprakash123">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/vaishnotiwari12">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vaishno-prakash-tiwari-989033252/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
